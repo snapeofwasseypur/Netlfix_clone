@@ -1,4 +1,4 @@
-# Project Title
+# NETFLIX CLONE
 
 This is a Netflix clone application built using Jetpack Compose and Kotlin for Android. The app allows users to browse movies and TV shows, view details, and manage their watchlist, providing a seamless streaming experience similar to the original Netflix app.
 
